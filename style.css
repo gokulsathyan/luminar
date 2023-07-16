@@ -1,0 +1,64 @@
+.view-cource {
+    background-color: #5e068a;
+    border: none;
+}
+
+.navbar-nav .active{
+    color: #5e068a !important;    
+}
+
+.view-cource:hover {
+    color: #5e068a;
+    background-color: white;
+    border: #5e068a 1px solid;
+}
+
+.modal-button {
+    background-color: #5e068a;
+    border: #5e068a solid;
+}
+
+.modal-button:hover {
+    color: #5e068a;
+    background-color: white;
+    border: #5e068a 1px solid;
+}
+
+.nav-link:hover {
+    color: #5e068a !important;
+}
+
+.violet-text {
+    color: #5e068a;
+}
+
+.violet-text-transparent {
+    color: #5e068a;
+    opacity: 0.5;
+}
+
+.learn-more {
+    background-color: #5e068a;
+    border: #5e068a solid;
+    color: yellow;
+}
+
+.learn-more:hover {
+    background-color: white;
+    border: #5e068a solid;
+    color: #5e068a;
+}
+
+.course-card:hover {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    transform: scale(1.01);
+}
+
+.submit-button {
+    background-color: #5e068a;
+    border: none;
+}
+.submit-button:hover {
+    background-color: #5e068a;
+    border: none;
+}
